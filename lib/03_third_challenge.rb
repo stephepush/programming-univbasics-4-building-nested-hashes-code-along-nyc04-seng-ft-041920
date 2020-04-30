@@ -17,7 +17,7 @@ def third_challenge
         {name: "Benvolio", age: "17", attitude: "worried"},
         {name: "Mercutio", age: "18", attitude: "hot-headed"}
       ]
-   }, 
+   },
    :capulet => {
       :patriarch => {
         #your key/value pairs here
@@ -38,5 +38,5 @@ def third_challenge
    }
   }
 
-  
+
 end
